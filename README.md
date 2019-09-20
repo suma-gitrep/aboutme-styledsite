@@ -3,8 +3,6 @@
 ## Below are my Repository Links. You will get to know about my webpage and me.
 * [My Page](https://suma-gitrep.github.io/aboutme-styledsite/)
 
-* [Repository Source](https://github.com/suma-gitrep/about-me.git)
-
 ## About
 This repository is having information about how to publish a site, tools recommended and short description about me with styles added.
 
